@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
     - Email: sanmati@parallel.fi
     - Twitter: https://twitter.com/jainsanmati846
+- Blogs: https://webbrainsmedia.com/
 <!--
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
