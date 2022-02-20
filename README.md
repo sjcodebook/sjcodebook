@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJs, NodeJs, Solidity, Rust etc...
 - 📫 How to reach me: 
     - Email: sanmati@parallel.fi
-    - Twitter: https://twitter.com/jainsanmati846
+    - Twitter: https://twitter.com/jainsahil846
 - Blogs: https://webbrainsmedia.com/
 <!--
 - 👯 I’m looking to collaborate on 
