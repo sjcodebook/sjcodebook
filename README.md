@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ReactJs, NodeJs, Solidity, Rust etc...
 - 📫 How to reach me: 
     - Email: contact@webbrainsmedia.com
-    - Twitter: https://twitter.com/jainsahil846
 - Blogs: https://webbrainsmedia.com/
 <!--
 - 👯 I’m looking to collaborate on 
