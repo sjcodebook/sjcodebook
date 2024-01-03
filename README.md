@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm Sahil. Currently working as a full stack engineer at [Datacy Inc.](https://datacy.com/), Passionate about web and decentralised tech. Why? Because i believe that technology is always going to move forward and eventually we are going to be shifted towards new and better tech and i want to play my part in making this transition for humanity.
+- 🔭 I'm Sahil, currently working as a Full Stack Engineer at Datacy Inc. I am passionate about web and decentralized technologies. Why? Because I believe technology is constantly advancing, and we are inevitably moving towards newer and better tech. I want to play my part in facilitating this transition for humanity.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
     - Email: hello@sahiljain.io
