@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 Hey, I'm Sahil, a dynamic Full Stack Engineer crafting the future at Datacy Inc. My passion lies in diving deep into the realms of web and decentralized technologies. Why, you ask? Because I firmly believe in the relentless march of technology. We're on the brink of a tech evolution, and I aim to be a catalyst in this exciting transition, shaping a better tomorrow for humanity.
+- 🔭 Hey, I'm Sahil, a dynamic Full Stack Web Developer. My passion lies in diving deep into the realms of web technologies. Why, you ask? Because I firmly believe in the relentless march of technology. We're on the brink of a tech evolution, and I aim to be a catalyst in this exciting transition, shaping a better tomorrow for humanity.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-    - Email: hello@sahiljain.io
+    - Email: jainsahil0846@gmail.com
     - LinkedIn: [@sjcodebook](https://www.linkedin.com/in/sjcodebook/)
-- Portfolio: https://sahiljain.io/
+- Portfolio: https://sahil-jain.com/
 - Blogs: https://webbrainsmedia.com/
 - ⚡ Fun fact: Nothing Is Ever As Good Or As Bad As It Seems
 
